@@ -2,33 +2,33 @@ console.log(a)
 console.log(b)
 
 function add(a, b) {
-  a + b
+  return a + b
 }
-/*
+
 function subtract(a,b) {
-  a - b
+  return a - b
 }
 
 function multiply(a,b) {
-  a*b
+return  a*b
 }
 
 function divide(a,b) {
-  a/b
+return  a/b
 }
 
 function inc(a,b) {
-  a++
+return  n++
 }
 
 function dec(a,b) {
-  a--
+return  n--
 }
 
-function makeInt(a){
-  parseInt('a',10)
+function makeInt(n){
+  parseInt(n,10)
 }
 
-function preserveDecimal(a) {
-  parseFloat('a')
+function preserveDecimal(n) {
+  parseFloat(n)
 }

@@ -1,4 +1,5 @@
-var a, b
+console.log(a)
+console.log(b)
 
 function add(a, b) {
   a + b

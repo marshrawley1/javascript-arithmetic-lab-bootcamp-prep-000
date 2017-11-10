@@ -1,6 +1,3 @@
-console.log(a)
-console.log(b)
-
 function add(a, b) {
   return a + b
 }
